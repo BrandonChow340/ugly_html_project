@@ -1,0 +1,66 @@
+body {
+    background-color: black;
+}
+
+h3 {
+    color: white;
+}
+
+
+h1 {
+    text-align:  center;
+    background-color: rgb(75, 75, 223);
+    color: rgb(228, 206, 8);
+}
+
+h2 {
+    color: white;
+}
+
+p {
+    color: white;
+}
+
+.imageClass {
+    
+    border: solid rgb(75, 75, 223) 5px;
+    border-radius: 10px;
+}
+
+.pokemon_description1 {
+    border: solid rgb(11, 221, 99) 5px;
+    border-radius: 10px;
+    background-color: rgb(11, 221, 99);
+    
+
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 32%;
+  }
+
+.list {
+    color: white;
+}
+
+.pokemon_images {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.pokemon_description2 {
+    border: solid rgb(240, 142, 15) 5px;
+    border-radius: 10px;
+    background-color: rgb(240, 142, 15);
+}
+
+.pokemon_description3 {
+    border: solid rgb(51, 157, 243) 5px;
+    border-radius: 10px;
+    background-color:rgb(51, 157, 243) ;
+}
+
